@@ -9,7 +9,7 @@
  - git add . : adiciona todo o conteúdo untracked do diretório para commit.
  - git add <file> : adiciona <file> ao commit.
  - git restore  <file> : descarta mudanças no diretório de trabalho. 
- - git ignore
+ - git ignore <file> : ao fazer commit, ignora arquivo <file>.
  - git commit -m : adiciona mensagem sobre conteúdo do commit (interessante para explicar quais modificaçãoes/exclusões foram feitas.
  - git commit -a : adiciona tudo para commit, sem mensagem.
  - git status : diz informações sobre o diretório - status de rastreamento de arquivos/pastas pelo Git, por exemplo.  
